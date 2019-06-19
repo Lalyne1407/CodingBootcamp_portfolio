@@ -190,3 +190,8 @@ a {
 a:hover, a:focus, a:active {
   color: #20B89F;
 }
+
+.fa-swimmer:before {
+  content: "\f5c4";
+  color: #20B89F;
+}
